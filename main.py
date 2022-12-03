@@ -4,7 +4,7 @@ import time
 
 from wiki import serchWiki
 
-TOKEN = "5683994914:AAHvBl6EUt-qvS27aJANTefwe5LBVB6kAdU"
+TOKEN = ""
 
 def wikiSelecter(update, context):
     print(context.args)
